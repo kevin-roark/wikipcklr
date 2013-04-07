@@ -1,0 +1,9 @@
+gather 4 random pages, store the titles, and pick a solution
+display choices in random order
+check if the choice is correct with post
+
+make the display of the images nice
+
+overall cleanliness
+
+deploy with node jitsui

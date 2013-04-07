@@ -1,0 +1,27 @@
+{
+  "name": "wikipcklr.com",
+  "version": "0.0.0-28",
+  "description": "pickl ur wikis",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kevin-roark/wikipcklr.git"
+  },
+  "keywords": [
+    "pckl"
+  ],
+  "author": "Kevin Roark, Trevor Marshall",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "latest",
+    "express": "latest",
+    "ejs": "latest",
+    "request": "latest",
+    "mongoose": "latest"
+  },
+  "engines": {
+    "node": ">=0.8"
+  }
+}
